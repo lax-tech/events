@@ -49,7 +49,7 @@
     1. Theme default css 
 ===========================*/
 
-@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700|Roboto:300,400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700|Roboto:300,400,500,700');
 body {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
@@ -88,7 +88,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     color: #1d2025;
     margin: 0px;
@@ -157,7 +157,7 @@ p {
     border: 1px solid #1e88e5 ;
     padding: 0 35px;
     font-size: 16px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     line-height: 50px;
     border-radius: 5px;
@@ -695,7 +695,7 @@ p {
 .support-button .support .cont span {
     font-size: 18px;
     color: #07294d;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
 }
 
@@ -761,7 +761,7 @@ p {
 
 .navigation .navbar .navbar-nav li a {
     font-size: 14px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     color: #07294d;
     text-transform: uppercase;
@@ -1043,7 +1043,7 @@ p {
 
 .slider-cont h1 {
     font-size: 60px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     color: #fff;
     padding-bottom: 25px;
@@ -1286,7 +1286,7 @@ p {
     color: #fff;
     font-size: 18px;
     padding-top: 15px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
 }
 
@@ -1493,7 +1493,7 @@ p {
 .singel-course .thum .price span {
     font-size: 14px;
     color: #07294d;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     width: 55px;
     height: 55px;
@@ -2289,7 +2289,7 @@ p {
 .category-form .form-title span {
     font-size: 24px;
     color: #fff;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .category-form .main-form {
@@ -2346,7 +2346,7 @@ p {
 .singel-course-2>.thum .price span {
     font-size: 14px;
     color: #07294d;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     width: 55px;
     height: 55px;
@@ -2436,12 +2436,12 @@ p {
 .singel-counter span {
     font-size: 36px;
     color: #1e88e5 ;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 600;
 }
 
 .singel-counter p {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     color: #fff;
     font-size: 15px;
@@ -2687,14 +2687,14 @@ p {
 .count-down-time .singel-count .number {
     font-size: 72px;
     color: #fff;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     display: block;
 }
 
 .count-down-time .singel-count .title {
     color: #fff;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     font-size: 18px;
     display: block;
@@ -2783,7 +2783,7 @@ p {
 .about-singel-items span {
     font-size: 60px;
     color: #dbdbdb;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     line-height: 46px;
     padding-bottom: 22px;
@@ -2948,7 +2948,7 @@ p {
 .corses-singel-left .course-terms ul li .course-category span {
     color: #8a8a8a;
     font-size: 14px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 600;
 }
 
@@ -2996,7 +2996,7 @@ p {
     font-size: 16px;
     color: #24486e;
     font-weight: 600;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding: 20px 0;
     display: block;
     background-color: #edf0f2;
@@ -3105,7 +3105,7 @@ p {
 .curriculam-cont .accordion .card .card-header a ul li>.head {
     font-size: 16px;
     font-weight: 600;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin-left: 15px;
     color: #000;
 }
@@ -3367,7 +3367,7 @@ p {
 .course-features .price-button span {
     font-size: 18px;
     color: #24486e;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     margin-top: 12px;
 }
@@ -3955,7 +3955,7 @@ p {
 .blog-details .cont .share li.title {
     font-size: 18px;
     color: #000;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 600;
 }
 
@@ -4285,7 +4285,7 @@ p {
     background-color: #315377;
     font-size: 15px;
     font-weight: 600;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-align: center;
     color: #fff;
     -webkit-transition: all 0.4s linear;
